@@ -12,7 +12,7 @@ Gtest >= 1.8 (Optional)
 
 ./program a b
 
-Where 'a' is a daily consumption - valid range is fron 0 to 2^32
-  and 'b' is a sun hours - valid rahge is from 1 to 24
+Where 'a' is a daily consumption - valid range is from 0 to 2^32
+  and 'b' is a sun hours - valid range is from 1 to 24
 
 Returns amount of batteries, amount of panels and required roof space
